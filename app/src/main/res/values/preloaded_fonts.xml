@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/asap</item>
+        <item>@font/didact_gothic</item>
+        <item>@font/fredoka_one</item>
+        <item>@font/nunito_extralight</item>
+        <item>@font/telex</item>
+    </array>
+</resources>
